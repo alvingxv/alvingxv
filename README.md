@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React, SvelteKit, TailwindCSS, Express, and, Laravel
 
 Checkout my personal projects!
+
 [**Countries Database**](https://countries-database.vercel.app/)
 
 <!---
