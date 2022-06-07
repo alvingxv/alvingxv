@@ -2,6 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React, SvelteKit, TailwindCSS, Express, and, Laravel
 
+Checkout my personal projects!
+[**Countries Database**](https://countries-database.vercel.app/)
 
 <!---
 alvingxv/alvingxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
