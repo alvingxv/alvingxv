@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvingxv
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, SvelteKit, TailwindCSS, Express, and, Laravel
+- 🌱 I’m currently learning React, TailwindCSS, Express, and, Laravel
 
 Checkout my personal projects!
 
