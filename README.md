@@ -5,6 +5,7 @@
 Checkout my personal projects!
 
 [**Countries Database**](https://countries-database.vercel.app/)
+[**Pendekno (URL Shortener)**](https://pendekno.azurewebsites.net/)
 
 <!---
 alvingxv/alvingxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
