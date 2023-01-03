@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alvin
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, TailwindCSS, Express, and, Laravel
+- 🌱 I also has a lot of interest in microservices (let's talk 😃)
 
 Checkout my personal projects!
 
