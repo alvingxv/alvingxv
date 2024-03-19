@@ -7,7 +7,7 @@ Checkout my personal projects!
 [**Countries Database**](https://countries-database.vercel.app/)
 <br>
 [**Pendekno (URL Shortener)**](https://pendekno.azurewebsites.net/)
-
+<br>
 [**Leetcode Profile**](https://leetcode.com/alvingxv/)
 
 <!---
