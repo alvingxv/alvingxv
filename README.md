@@ -8,6 +8,8 @@ Checkout my personal projects!
 <br>
 [**Pendekno (URL Shortener)**](https://pendekno.azurewebsites.net/)
 
+[**Leetcode Profile**](https://leetcode.com/alvingxv/)
+
 <!---
 alvingxv/alvingxv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
